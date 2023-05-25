@@ -27,5 +27,8 @@
     background-color: red;
 }
 
-
+.contenedor div:nth-child(2) img {
+    width: 300px;
+    height: auto;
+}
 
